@@ -52,8 +52,14 @@
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
+- 
+#### Name: [YOUR NAME](GitHub link)
+- Place: Hyderabad,Telangana,India
+- Bio: Computer Science student
+- GitHub: [nikhilks123]((https://github.com/nikhilks123))
 
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
+
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
